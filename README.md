@@ -1,6 +1,8 @@
 # SocketLlama
 Just playing around with abdeladim-s/pyllamacpp
 
+This is a super basic terminal interface, you might want [pyllamacpp-webui](https://github.com/abdeladim-s/pyllamacpp#web-ui)
+
 ## Setup & Run
 
 ```
