@@ -4,7 +4,7 @@ Just playing around with abdeladim-s/pyllamacpp
 ## Setup & Run
 
 ```
-git clone TODO
+git clone https://github.com/Aveygo/LlamaSocket.git
 ```
 
 ```
